@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #50d8af;
+  color: #245c00;
   transition: 0.5s;
 }
 
@@ -567,6 +567,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 20px;
   line-height: 26px;
   font-style: italic;
+}
+
+#about .content i span {
+  color: #3498DB;
+  font-style: italic;
+  display: block;
+  font-size: 13px;
 }
 
 #about .content p {
